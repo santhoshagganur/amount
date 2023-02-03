@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.button {
+  background-color: #585076;
+  border-color: #d4d2db;
+  border-width: 1px;
+  border-style: solid;
+  color: #d4d2db;
+  font-size: 30px;
+  width: 140px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
